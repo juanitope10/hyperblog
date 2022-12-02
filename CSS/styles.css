@@ -2,17 +2,20 @@ body
 {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: blueviolet;
+    color: red;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 
 }
 #cabecera 
 {
     background-color: blue;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    box-shadow: 0px 2px 20px 0px rgba(201, 177, 177, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5cm;
+    padding: 0.5em;
 }
 #cabecera #tagline
 {
